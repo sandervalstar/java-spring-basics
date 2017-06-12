@@ -1,5 +1,8 @@
 = Spring Basics
 
+You can find the training here: +
+https://bolcom.github.io/java-spring-basics/
+
 == Purpose
 
 The purpose of this training is to get you familiar with the basic functions of Spring as well as to show you why they are useful.
